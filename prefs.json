@@ -1,0 +1,34 @@
+{
+  "SCKEY": {
+    "type": "string",
+    "default": "nkskdndn646494949dhksksmsmd94649454dhjsnwkso",
+    "title": "server酱turbo版推送sckey"
+  } ,
+  "cpapi": {
+    "type": "string",
+    "default": "3dd9b77f74c8b74072900fb978a95bc8",
+    "title": "coolpush 推送key"
+  } ,
+  "qmsgapi": {
+    "type": "string",
+    "default": "d8448fb73dfd7c3713bd2674ca988ab9",
+    "title": "Qmsg酱推送key"
+  }
+  ,
+  "pushplustoken": {
+    "type": "string",
+    "default": "bc80d26667e5bfe4v61765b29l5f660b",
+    "title": "pushplus推送ley"
+  },
+  "wx": {
+    "type": "string",
+    "default": "ViZP132NP_ZFmjg6RRpS00_rMMoHT2Xd9QwDkD8F5C4@ww0e472b80c9c50baf@1000045@LiTianCai",
+    "title": "企业微信推送参数  格式 corpsecret@corpid@agentid@mediaid  mediaid不需要的请写0 "
+  },
+   "tg": {
+    "type": "string",
+    "default": "nsnsn:666njj@wenmoux",
+    "title": "tg推送  bot token@userid"
+  }
+
+}
