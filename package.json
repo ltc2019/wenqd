@@ -1,0 +1,39 @@
+{
+  "name": "dorajs-check",
+  "displayName": "签到盒",
+  "version": "1.0.2",
+  "uuid": "2bdde585-194f-4b28-841b-9609b215485c",
+  "description": "各种app网站签到",
+  "icon": "assets/77.jpeg",
+  "prefs": "assets/prefs.json",
+  "main": "main.js",
+  "license": "UNLICENSED",
+  "author": {
+    "name": "chegege",
+    "fullName": "",
+    "email": ""
+  },
+  "engineStrick": true,
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "updates": "增加telegram bot推送\n请重新填写推送信息\n增加Acfun每日签到任务 直播扭蛋领取自行看说明\n修复wps邀请\nwps增加批量邀请",
+  "contributes": {},
+  "homepage": "",
+  "engines": {
+    "dora": ">=1.8.1"
+  },
+  "keywords": [
+    "Dora.js"
+  ],
+  "dependencies": {
+    "iconv-lite": "^0.6.0",
+    "md5": "^2.3.0",
+    "request": "^2.88.2"
+  },
+  "categories": [
+    "tool"
+  ],
+  "donates": {}
+}
