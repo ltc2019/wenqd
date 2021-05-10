@@ -6,12 +6,12 @@
   } ,
   "cpapi": {
     "type": "string",
-    "default": "3dd9b77f74c8b74072900fb978a95bc8",
+    "default": "311dd9b77f74c8b74072900fb978a95bc8",
     "title": "coolpush 推送key"
   } ,
   "qmsgapi": {
     "type": "string",
-    "default": "d8448fb73dfd7c3713bd2674ca988ab9",
+    "default": "d118448fb73dfd7c3713bd2674ca988ab9",
     "title": "Qmsg酱推送key"
   }
   ,
@@ -22,7 +22,7 @@
   },
   "wx": {
     "type": "string",
-    "default": "ViZP132NP_ZFmjg6RRpS00_rMMoHT2Xd9QwDkD8F5C4@ww0e472b80c9c50baf@1000045@LiTianCai",
+    "default": "V11iZP132NP_ZFmjg6RRpS00_rMMoHT2Xd9QwDkD8F5C4@1ww0e472b80c9c50baf@1000045@LiTianCai",
     "title": "企业微信推送参数  格式 corpsecret@corpid@agentid@mediaid  mediaid不需要的请写0 "
   },
    "tg": {
